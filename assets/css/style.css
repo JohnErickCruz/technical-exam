@@ -1,0 +1,21 @@
+.comment-list{
+    border-radius: 5px;
+    border: 1px solid #aaa;
+}
+.user-profile{
+	border-bottom: 1px solid #aaa;
+	background-color:#e3e3e3;
+	padding:10px;
+}
+.user-comment{
+	padding:10px;
+}
+.delete-comment h5{
+	color: red;
+}
+.user-profile small{
+	color: #1e90ff;
+}
+.sample{
+	
+}

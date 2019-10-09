@@ -1,0 +1,20 @@
+{
+	"name": "Simple News CRUD",
+	"description": "An admin panel for news with CRUD (Create, Read, Update, Delete ) using OOP PHP",
+	"homepage": "https://github.com/JohnErickCruz/technical-exam",
+	"authors": [
+		{
+			"name": "John Erick Cruz",
+			"email": "johnerick.cruz1027@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+			"psr-4": {
+			    "Model\\": "model",
+			    "Controllers\\": "controllers",
+			    "Core\\": "core",
+			    "Config\\": "config"
+			}
+		}
+}
